@@ -35,7 +35,7 @@ The PID controller adjusts damping force based on the relative velocity between 
 - Faster settling time and better damping control over uneven road profiles.
 - Quantified improvement in comfort index and dynamic stability.
 ---
-### 🧾 Future Scope
+### Future Scope
 - Integration of **real-time road estimation** via sensors.  
 - Implementation of **machine learning-based adaptive damping control**.  
 - Extension to **full-vehicle model** for comprehensive analysis. 
